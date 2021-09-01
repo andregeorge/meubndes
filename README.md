@@ -1,6 +1,6 @@
 # Meu BNDES
 
-[![Logo](./images/meu-bndes-logo.png)]
+![Logo](./images/meu-bndes-logo.png)
 
 Projeto para o Prêmio Dados Abertos para o Desenvolvimento do BNDES
 [Prêmio Dados Abertos para o Desenvolvimento do BNDES](http://www.bndes.gov.br/premiodadosabertos)
@@ -26,11 +26,11 @@ A execução dos notebooks segue a seguinte ordem:
 6. BNDES Twitter Bot
 
 ## Vídeo Pitch
-[![Video Pitch](./images/meu-bndes.png)](https://www.youtube.com/watch?v=Mp4KqXLf044)
+![Video Pitch](./images/meu-bndes.png)(https://www.youtube.com/watch?v=Mp4KqXLf044)
 
 ##Preview da solução
-[![Logo](./images/app.jpg)]
-[![Logo](./images/dashboard.jpg)]
+![Logo](./images/app.jpg)
+![Dashboard](./images/dashboard.jpg)
 
 ## O que foi utilizado na solução?
 - Visualization
